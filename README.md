@@ -42,3 +42,30 @@ This project requires Python 3.x, along with the following libraries:
 To install the dependencies, run the following command:
 ```bash
 pip install -r requirements.txt
+
+## Usage
+
+To replicate the findings and run the notebook:
+
+1. Clone the repository.
+2. Install the required dependencies.
+3. Open the Digit_Recognizer.ipynb notebook in a Jupyter environment.
+4. Run the cells sequentially to train the model and make predictions.
+
+## Results
+
+The accuracy of 99.31% on the validation set is excellent and implies that the model will likely perform well on similar real-world data. The slight gap between training accuracy (100%) and validation accuracy (99.31%) does indicate a minimal level of overfitting. Essentially, the model fits the training data slightly better than it fits new data.
+
+## Contributing
+
+Feel free to fork this project and make your own changes too. Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details: https://www.kaggle.com/competitions/digit-recognizer/data
+
+## Contact Information
+
+For any further inquiries, you can reach me at tatiana.massoco@gmail.com .
+
+Thank you for your interest in this project!
