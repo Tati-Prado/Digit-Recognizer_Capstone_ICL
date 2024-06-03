@@ -39,9 +39,6 @@ This project requires Python 3.x, along with the following libraries:
 - Matplotlib
 - Keras Tuner
 
-To install the dependencies, run the following command:
-```bash
-pip install -r requirements.txt
 
 ## Usage
 
@@ -69,3 +66,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For any further inquiries, you can reach me at tatiana.massoco@gmail.com .
 
 Thank you for your interest in this project!
+
+
+## To install the dependencies, run the following command:
+```bash
+pip install -r requirements.txt
