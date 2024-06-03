@@ -1,0 +1,5 @@
+pandas==1.4.4
+numpy==1.24.4
+tensorflow==2.14.0
+keras-tuner==1.4.7
+matplotlib.pyplot==3.5.2
