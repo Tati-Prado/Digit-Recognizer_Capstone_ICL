@@ -14,12 +14,14 @@ The Digit Recognizer competition on Kaggle is a practice contest to introduce ma
 
 Here's a brief overview of the repository:
 
-- `train.csv`: The training set provided by the competition.
-- `test.csv`: The test set for which you need to predict the labels.
-- `sample_submission.csv`: A sample submission file in the correct format.
+- Inside `digit-recognizer.zip`:
+  - `train.csv`: The training set provided by the competition.
+  - `test.csv`: The test set for which you need to predict the labels.
+  - `sample_submission.csv`: A sample submission file in the correct format.
 - `ICL_Digit_Recognizer.ipynb`: Jupyter notebook containing the code for the project.
-- `model.h5`: Saved model weights after training.
+- `mnist_model.h5`: Saved model weights after training.
 - `requirements.txt`: A text file listing the project's dependencies.
+- `Datasheet_ModelCard.pdf`: Containing Datasheet for the MNIST Dataset and Model Card for the Digit Recognizer Model.
 
 ## Models and Techniques Used
 
